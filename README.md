@@ -1,4 +1,3 @@
-# GPS_System
-# GPS_System
-# GPS_System
-# GPS_System
+VenusGPS.ino was created by Tom Fetter, edited by myself
+GPS_System.ino and ReadKenwood.ino were created by me
+
